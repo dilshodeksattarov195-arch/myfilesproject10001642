@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggercalidate",
+        "uuid": 9275658,
+        "checksum": "dqiezi"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
